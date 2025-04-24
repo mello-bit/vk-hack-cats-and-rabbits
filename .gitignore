@@ -1,3 +1,7 @@
 /.vscode
 *.csv
 /venv
+main.py
+best_model.pth
+custom_model.ipynb
+main.py
