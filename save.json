@@ -1,0 +1,17 @@
+{
+    "n_estimators": 1329,
+    "max_depth": 5,
+    "learning_rate": 0.011727218131778093,
+    "subsample": 0.8076087244185466,
+    "colsample_bytree": 0.7009149718891257,
+    "reg_alpha": 3.8018706948423153,
+    "reg_lambda": 6.485312518852529
+}
+// for catboost
+{
+    'iterations': 2279,
+ 'depth': 10,
+ 'learning_rate': 0.020761570500590826,
+ 'l2_leaf_reg': 2.7682070244182237,
+ 'random_strength': 1.6047401068931464
+}
